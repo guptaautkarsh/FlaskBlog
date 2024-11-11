@@ -1,4 +1,4 @@
 .env
-venv
-instance
-profile_pic
+.venv/
+instance/
+blog/static/profile_pic/

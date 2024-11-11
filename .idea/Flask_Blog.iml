@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module type="PYTHON_MODULE" version="4">
   <component name="NewModuleRootManager">
-    <content url="file://$MODULE_DIR$" />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/.venv/lib/python3.10/site-packages/fontTools/t1Lib" />
+      <excludeFolder url="file://$MODULE_DIR$/.venv/lib/python3.10/site-packages/numpy/f2py/tests/src/array_from_pyobj" />
+      <excludeFolder url="file://$MODULE_DIR$/.venv/lib/python3.10/site-packages/numpy/random/lib" />
+      <excludeFolder url="file://$MODULE_DIR$/.venv/lib/python3.10/site-packages/pyparsing/diagram" />
+      <excludeFolder url="file://$MODULE_DIR$/.venv/lib/python3.10/site-packages/pytz/zoneinfo/Arctic" />
+    </content>
     <orderEntry type="jdk" jdkName="Python 3.10 (Flask_Blog)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
