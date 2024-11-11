@@ -3,3 +3,4 @@
 .venv/
 instance/
 blog/static/profile_pic/
+__pycache__
