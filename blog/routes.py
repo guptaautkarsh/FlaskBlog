@@ -16,7 +16,7 @@ from flask_mail import Message
 def hello():
     page = request.args.get('page', 1, type=int)
     posts = Post.query.order_by(Post.date_posted.desc()).paginate(per_page=4, page=page)
-    return render_template("home.html", post=posts)
+    return render_template("home.html", post=posts, title="Utkarsh")
 
 
 @app.route('/register', methods=['GET','POST'])
