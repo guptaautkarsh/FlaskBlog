@@ -14,7 +14,7 @@ and as a learning project for understanding Flask-based web development.
 - 🎨 **Responsive UI** – Styled using Bootstrap for a clean, modern look   
 - 🗄️ **Database Support** – SQLite (development), easy migration to other RDBMS
 <br></br>
-![Pdf Summarizer](https://drive.google.com/file/d/1BYkbymjEk6yzShLEhIrDDtLpcgUsHj3O/view?usp=sharing)
+![Pdf Summarizer](https://drive.google.com/uc?export=view&id=1BYkbymjEk6yzShLEhIrDDtLpcgUsHj3O)
 
 ---
 
