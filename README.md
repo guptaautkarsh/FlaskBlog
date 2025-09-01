@@ -12,7 +12,9 @@ and as a learning project for understanding Flask-based web development.
 - 📝 **Create, Edit, Delete Posts** – Full CRUD functionality for blogs  
 - 📂 **User Accounts** – Each user manages their own posts  
 - 🎨 **Responsive UI** – Styled using Bootstrap for a clean, modern look   
-- 🗄️ **Database Support** – SQLite (development), easy migration to other RDBMS  
+- 🗄️ **Database Support** – SQLite (development), easy migration to other RDBMS
+<br></br>
+![Pdf Summarizer](https://drive.google.com/file/d/1BYkbymjEk6yzShLEhIrDDtLpcgUsHj3O/view?usp=sharing)
 
 ---
 
@@ -54,11 +56,9 @@ and as a learning project for understanding Flask-based web development.
    cd blog/static
    mkdir profile_pic
    ```
-7. **Start it**  
+7. **Start the development server with**  
    ```bash
    python3 run.py
    ```
-You should be able to interact with our app on localhost:5173
-   
-
+You should be able to interact with our app on localhost:5000
 
